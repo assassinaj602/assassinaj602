@@ -1,4 +1,5 @@
-![logo]([https://github.com/assassinaj602/assassinaj602/blob/main/Muhammad%20Assad%20Ullah%20(3)%20(1).png](https://media.licdn.com/dms/image/D4D03AQEeZG0gHjbQbg/profile-displayphoto-shrink_800_800/0/1718307776885?e=1724889600&v=beta&t=anC7lpPPY0r6W6SabXRERczAd_PzYSPMIzmlRD2eeXw](https://github.com/assassinaj602/assassinaj602/blob/main/Muhammad%20Assad%20Ullah%20(3)%20(1).png))
+![logo](https://github.com/assassinaj602/assassinaj602/blob/main/Muhammad%20Assad%20Ullah%20(3)%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Muhammad Assad Ullah</h1>
 <h3 align="center">A passionate Programmer from Pakistan</h3>
 
