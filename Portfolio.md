@@ -1,4 +1,4 @@
-![logo](https://github.com/assassinaj602/assassinaj602/blob/main/Muhammad%20Assad%20Ullah%20(3)%20(1).png)
+![logo](https://github.com/assassinaj602/assassinaj602/blob/main/Pythonic%20dreams%2C%20AI%20mastery%2C%20and%20cybersecurity%20aspirations.%E2%80%9D%20%F0%9F%90%8D%F0%9F%A4%96%F0%9F%9B%A1%EF%B8%8F.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Assad Ullah</h1>
 <h3 align="center">A passionate Programmer from Pakistan</h3>
