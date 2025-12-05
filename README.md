@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://github.com/assassinaj602">
+    <img src="./banner.png" alt="Muhammad Assad Ullah - Flutter App Developer" width="100%" />
+  </a>
+</div>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=180&section=header&text=Muhammad%20Assad%20Ullah&fontSize=36&fontAlign=50&fontAlignY=35&desc=Flutter%20App%20Developer&descAlign=50&descAlignY=58&animation=twinkling)
 
@@ -57,15 +61,6 @@
 
 These sections auto‑update to reflect your ongoing GitHub activity and contributions. No manual edits needed after setup.
 
-### Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### Coding Time (WakaTime)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ### Contribution Graph
 
@@ -119,18 +114,10 @@ These sections auto‑update to reflect your ongoing GitHub activity and contrib
 ## 📫 Connect with me
 
 <p align="left">
-  <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/muhammad-assadullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+  <a href="https://instagram.com/ajxflutter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+    <a href="https://twitter.com/assassinaj602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
 </p>
 
----
-
-### Host Portfolio from `docs/` (GitHub Pages)
-1. Go to Repo Settings -> Pages
-2. Source: `main` branch, folder: `/docs`
-3. Save. Your site will be served at `https://github.com/assassinaj602/`
-
-Update `docs/projects.json` to control cards shown on the site.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer)
