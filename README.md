@@ -16,14 +16,15 @@
 
 <h1 align="center">Hi 👋, I'm <strong>Muhammad Assad Ullah</strong></h1>
 
-<h3 align="center">A passionate <strong>Flutter App Developer</strong> from Pakistan</h3>
+<h3 align="center">Professional <strong>Flutter App Developer</strong> | 3+ Years Experience | Building Mobile Solutions from Pakistan</h3>
 
-- 🔭 I’m currently working on <strong>AI Student Assistant</strong>, <strong>Budget App</strong>, and <strong>AI Pocket Lawyer</strong>
-- 🌱 I’m currently learning <strong>advanced state management</strong> and <strong>clean architecture patterns</strong>
-- 👯 I’m looking to collaborate on <strong>Flutter projects</strong> for startups and research teams
-- 💬 Ask me about <strong>Flutter, App Development, REST APIs, Firebase</strong>
+- 🚀 Professional Flutter developer with <strong>3+ years of experience</strong> delivering production-ready mobile applications
+- 🔭 Currently working on <strong>AI Student Assistant</strong>, <strong>Budget App</strong>, and <strong>AI Pocket Lawyer</strong>
+- 🌱 Specializing in <strong>advanced state management (Provider, Riverpod, GetX)</strong> and <strong>clean architecture patterns (MVVM, MVC)</strong>
+- 👯 Open to collaborate on <strong>Flutter projects</strong> for startups, research teams, and enterprise solutions
+- 💬 Expert in <strong>Flutter, Dart, Firebase, REST APIs, Mobile App Architecture, and Cross-Platform Development</strong>
 - 👨‍💻 Portfolio: <a href="https://assassinaj602.github.io/assassinaj602/">GitHub Pages Portfolio</a>
-- 📫 How to reach me: <strong>asadullahaj602@gmail.com</strong>
+- 📫 Reach me: <strong>asadullahaj602@gmail.com</strong>
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0EA5E9&height=2&section=footer)
 
