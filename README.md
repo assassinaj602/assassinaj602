@@ -1,5 +1,6 @@
 > [!NOTE]
-> "Man cannot obtain anything without first sacrificing something. In order to obtain anything, something of equal value is required. That is Alchemy's Law of Equivalent Exchange." **Alphonse Elric**
+> "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." — **Naruto Uzumaki** 
+> "People's dreams... have no end!" — Marshall D. Teach **One Piece**
 <br>
 <div align="center">
 
