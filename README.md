@@ -5,7 +5,7 @@
 <br>
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0175C2,100:02569B&height=160&section=header&text=Muhammad%20Assad%20Ullah&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Open%20Source%20Contributor&descAlign=50&descAlignY=64&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0175C2,100:02569B&height=160&section=header&text=Muhammad%20Assad%20Ullah&fontSize=48&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Flutter%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20Open%20to%20Job%20or%20Internship%20Roles&descAlign=50&descAlignY=64&descSize=16)
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Building+beautiful+cross-platform+apps+in+Flutter;Contributing+to+the+Flutter+Open+Source+ecosystem;Currently+shipping+on-device%2C+offline-first+AI+apps" alt="typing" />
 
