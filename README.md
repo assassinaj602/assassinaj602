@@ -1,3 +1,6 @@
+> [!NOTE]
+> "Man cannot obtain anything without first sacrificing something. In order to obtain anything, something of equal value is required. That is Alchemy's Law of Equivalent Exchange." **Alphonse Elric**
+<br>
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:0175C2,100:02569B&height=160&section=header&text=Muhammad%20Assad%20Ullah&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Flutter%20Developer%20%E2%80%A2%20Open%20Source%20Contributor%20%E2%80%A2%20UET%20Taxila&descAlign=50&descAlignY=62&descSize=16)
@@ -12,15 +15,17 @@
 
 ## About Me
 
-💙 Flutter Developer from Pakistan
+💙 **Flutter Developer** from Pakistan, specializing in offline-first & on-device AI mobile apps
 
-🎓 BS Computer Science @ UET Taxila (2023–2027)
+🎓 **Final-year** BS Computer Science @ UET Taxila
 
-🌱 Currently contributing to Flutter open source
+📦 **Author** of 2 published Flutter packages on pub.dev
 
-📱 Building production-ready, offline-first Flutter applications
+🌱 Active Flutter **open-source contributor**
 
-🚀 Looking for a Flutter internship or remote role
+🏆 7x **Hackathon Winner**
+
+🚀 **Open to** Flutter internships, remote roles, and freelance work
 
 ⭐ **Goal:** become one of the top Flutter open-source contributors
 
@@ -28,7 +33,7 @@
 
 ## Open Source
 
-**This is the centerpiece — not a footnote.**
+**This is the centerpiece, not a footnote.**
 
 <div align="center">
 
@@ -60,7 +65,7 @@
 **[offline_sync_flutter](https://github.com/assassinaj602/offline_sync_flutter)**
 Flutter · Dart · Hive · SQLite
 
-Offline-first API sync engine for Flutter — queues requests locally when the device is offline, auto-syncs the moment connectivity returns, with configurable retry policies and conflict resolution (serverWins / localWins / manual). Ships with reactive widgets (`SyncIndicator`, `PendingRequestsBadge`, `SyncStatusBanner`) for surfacing sync state in the UI.
+Offline-first API sync engine for Flutter queues requests locally when the device is offline, auto-syncs the moment connectivity returns, with configurable retry policies and conflict resolution (serverWins / localWins / manual). Ships with reactive widgets (`SyncIndicator`, `PendingRequestsBadge`, `SyncStatusBanner`) for surfacing sync state in the UI.
 
 ![pub points](https://img.shields.io/pub/points/offline_sync_flutter?style=flat-square&color=0175C2)
 ![pub likes](https://img.shields.io/pub/likes/offline_sync_flutter?style=flat-square&color=0175C2)
@@ -84,6 +89,7 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
 </tr>
 </table>
 <br>
+
 ### Stats & Streak
 
 <div align="center">
@@ -125,21 +131,21 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
 
 ## Currently Working On
 
-- Contributing to Flutter open source
-- Picking up good first issues on Flutter packages
-- Publishing more Flutter packages
-- Building Material 3 apps
-- Sharpening Clean Architecture practice
+- Contributing to **Flutter open source**
+- Picking up **issues** on Flutter packages
+- **Publishing** more Flutter packages
+- **Building** Material 3 apps
+- Sharpening **Clean Architecture** practice
 
 <br>
 
 ## Achievements
 
-🏆 8+ Merged Pull Requests
-📦 2 Published Flutter Packages
-⭐ Hackathon Winner — Techinance CyberHack 2025
-💻 5+ Production Flutter Apps
-🌍 Active Open Source Contributor
+- 🏆 7x Hackathon Winner
+- 📦 Published Flutter Packages on pub.dev
+- 🌱 Active Flutter Open Source Contributor
+- 💻 Production Flutter Apps Shipped
+- 🌐 Freelance Flutter Developer
 
 <br>
 
@@ -148,15 +154,15 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>Google Prompting Essentials Specialization</h3>
-      <p><b>Issuer:</b> Google (Coursera)</p>
-      <p><b>Description:</b> Practical prompt-engineering specialization covering multi-model strategies, safety, and evaluation.</p>
-      <a href="https://www.coursera.org/account/accomplishments/specialization/T9WCP5J70ZVQ" target="_blank">
+      <h3>Flutter and Dart: Developing iOS, Android, and Mobile Apps</h3>
+      <p><b>Issuer:</b> IBM (Coursera)</p>
+      <p><b>Description:</b> An end-to-end professional course covering the full Flutter development lifecycle building responsive UI layouts, navigation and routing, state management, and platform-specific integrations for both iOS and Android. Concludes with app testing strategies and a real deployment workflow.</p>
+      <a href="https://www.coursera.org/account/accomplishments/verify/YYMS8NLNLAP3" target="_blank">
         <img src="https://img.shields.io/badge/Verify%20Credential-Coursera-0175C2?style=flat-square&logo=coursera" alt="Verify Certificate"/>
       </a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="ADD_IMAGE_URL_HERE" width="100%" alt="Google Prompting Essentials Specialization Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
+      <img src="Certificates/Flutter-certificate.png" width="100%" alt="IBM Flutter and Dart Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
     </td>
   </tr>
 </table>
@@ -164,15 +170,15 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
-      <h3>Flutter and Dart: Developing iOS, Android, and Mobile Apps</h3>
-      <p><b>Issuer:</b> IBM (Coursera)</p>
-      <p><b>Description:</b> End-to-end Flutter course by IBM covering layouts, navigation, state management, testing, and deployment.</p>
-      <a href="https://www.coursera.org/account/accomplishments/verify/YYMS8NLNLAP3" target="_blank">
+      <h3>Google Prompting Essentials Specialization</h3>
+      <p><b>Issuer:</b> Google (Coursera)</p>
+      <p><b>Description:</b> A hands-on specialization in prompt engineering across multiple LLM providers, covering how to structure prompts for reliability, apply safety and evaluation practices, and design prompts that generalize across different models rather than overfitting to one.</p>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/T9WCP5J70ZVQ" target="_blank">
         <img src="https://img.shields.io/badge/Verify%20Credential-Coursera-0175C2?style=flat-square&logo=coursera" alt="Verify Certificate"/>
       </a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="ADD_IMAGE_URL_HERE" width="100%" alt="IBM Flutter and Dart Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
+      <img src="Certificates/prompt-eng-certificate.png" width="100%" alt="Google Prompting Essentials Specialization Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
     </td>
   </tr>
 </table>
@@ -182,13 +188,13 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
     <td width="65%" valign="top">
       <h3>Master Flutter and Firebase</h3>
       <p><b>Issuer:</b> Udemy</p>
-      <p><b>Description:</b> Building production-grade Flutter apps with Firebase Auth, Firestore, and industry best practices.</p>
+      <p><b>Description:</b> A production-focused course on integrating Firebase into Flutter apps covering Auth flows, real-time Firestore data, and backend best practices for building apps that are ready to ship rather than just tutorial demos.</p>
       <a href="https://www.udemy.com/certificate/UC-11ec117a-2ad1-4c87-86e6-94e505b8d07d/" target="_blank">
         <img src="https://img.shields.io/badge/Verify%20Credential-Udemy-0175C2?style=flat-square&logo=udemy" alt="Verify Certificate"/>
       </a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="ADD_IMAGE_URL_HERE" width="100%" alt="Master Flutter and Firebase Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
+      <img src="Certificates/Firebase-certificate.jpg" width="100%" alt="Master Flutter and Firebase Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
     </td>
   </tr>
 </table>
@@ -198,11 +204,13 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
     <td width="65%" valign="top">
       <h3>Dart & Flutter: The Complete Flutter Development Course</h3>
       <p><b>Issuer:</b> Udemy</p>
-      <p><b>Description:</b> Comprehensive Flutter fundamentals — widgets, navigation, state management, and platform integration.</p>
-      <p><b>Certificate ID:</b> UC-a1da510e-591b-49d0-b165-758ddcb25301</p>
+      <p><b>Description:</b> A comprehensive foundation course covering Dart language fundamentals and core Flutter concepts widgets, navigation, state management, and platform integration, building the base skill set used across all later, more advanced Flutter work.</p>
+      <a href="https://www.udemy.com/certificate/UC-a1da510e-591b-49d0-b165-758ddcb25301/" target="_blank">
+        <img src="https://img.shields.io/badge/Verify%20Credential-Udemy-0175C2?style=flat-square&logo=udemy" alt="Verify Certificate"/>
+      </a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="ADD_IMAGE_URL_HERE" width="100%" alt="Dart and Flutter Complete Course Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
+      <img src="Certificates/dart-certificate.jpg" width="100%" alt="Dart and Flutter Complete Course Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
     </td>
   </tr>
 </table>
@@ -225,8 +233,6 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
 
 <br>
 
-> [!NOTE]
-> "Man cannot obtain anything without first sacrificing something. In order to obtain anything, something of equal value is required. That is Alchemy's Law of Equivalent Exchange." — Alphonse Elric
 
 <div align="center">
 
