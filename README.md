@@ -222,7 +222,7 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
 ## Connect
 
 <p align="center">
-  <a href="https://assassinaj602.github.io/assassinaj602/"><img src="https://img.shields.io/badge/Portfolio-0175C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://muhammad-assadullah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0175C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-assadullah"><img src="https://img.shields.io/badge/LinkedIn-0175C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/assassinaj602"><img src="https://img.shields.io/badge/X-0175C2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:asadullahaj602@gmail.com"><img src="https://img.shields.io/badge/Email-0175C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
