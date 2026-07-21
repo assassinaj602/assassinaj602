@@ -45,8 +45,14 @@
 
 </div>
 
+## 📦 Merged PRs
+
+<details>
+<summary><b>Click to expand (9 total PRs)</b></summary>
+
 | Repository | PR | Status |
 |---|---|---|
+| [lichess-org/mobile](https://github.com/lichess-org/mobile) | [#3448](https://github.com/lichess-org/mobile/pull/3448) — Add flip board button to puzzle screen | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#41](https://github.com/Amayyas/SkyPulse/pull/41) — fix deprecation warnings | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#59](https://github.com/Amayyas/SkyPulse/pull/59) — remove unused dependency | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#60](https://github.com/Amayyas/SkyPulse/pull/60) — fix wind speed display bug | ✅ Merged |
@@ -56,6 +62,7 @@
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#101](https://github.com/willskymaker/master_aid/pull/101) — CR filter for combat tracker | ✅ Merged |
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#111](https://github.com/willskymaker/master_aid/pull/111) — extended CR filtering | ✅ Merged |
 
+</details>
 <br>
 
 ## Package Library
