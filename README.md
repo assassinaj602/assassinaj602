@@ -45,19 +45,28 @@
 
 </div>
 
-## 📦 Merged PRs
 
-<details>
-<summary><b>Click to expand (9 total PRs)</b></summary>
+## 📦 Merged Pull Requests
+
+<details open>
+<summary><b>📌 Recent PRs (6 shown)</b></summary>
 
 | Repository | PR | Status |
 |---|---|---|
-| [lichess-org/mobile](https://github.com/lichess-org/mobile) | [#3448](https://github.com/lichess-org/mobile/pull/3448) — Add flip board button to puzzle screen | ✅ Merged |
+| [lichess-org/mobile](https://github.com/lichess-org/mobile) | [#3448](https://github.com/lichess-org/mobile/pull/3448) — Add flip board button to puzzle screen (#3372) | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#41](https://github.com/Amayyas/SkyPulse/pull/41) — fix deprecation warnings | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#59](https://github.com/Amayyas/SkyPulse/pull/59) — remove unused dependency | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#60](https://github.com/Amayyas/SkyPulse/pull/60) — fix wind speed display bug | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#62](https://github.com/Amayyas/SkyPulse/pull/62) — metric/imperial unit toggle | ✅ Merged |
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#48](https://github.com/willskymaker/master_aid/pull/48) — unit tests for core logic | ✅ Merged |
+
+</details>
+
+<details>
+<summary><b>📜 Show older PRs (3 more)</b></summary>
+
+| Repository | PR | Status |
+|---|---|---|
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#76](https://github.com/willskymaker/master_aid/pull/76) — homebrew monster creator + CR estimation | ✅ Merged |
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#101](https://github.com/willskymaker/master_aid/pull/101) — CR filter for combat tracker | ✅ Merged |
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#111](https://github.com/willskymaker/master_aid/pull/111) — extended CR filtering | ✅ Merged |
