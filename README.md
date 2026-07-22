@@ -39,8 +39,8 @@
 
 <div align="center">
 
-![Merged PRs](https://img.shields.io/badge/Merged%20PRs-8-0175C2?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repos-2-02569B?style=for-the-badge)
+![Merged PRs](https://img.shields.io/badge/Merged%20PRs-9-0175C2?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-3-02569B?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Contributor-0175C2?style=for-the-badge)
 
 </div>
