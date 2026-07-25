@@ -1,7 +1,7 @@
 > [!NOTE]
-> "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." — **Naruto Uzumaki**
+> "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." **Naruto Uzumaki**
 > 
-> "People's dreams... have no end!" — Marshall D. Teach **One Piece**
+> "People's dreams... have no end!" Marshall D. Teach **One Piece**
 <br>
 <div align="center">
 
