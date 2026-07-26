@@ -60,7 +60,7 @@
 </details>
 
 <details>
-<summary><b>📜 Show older PRs (9 more)</b></summary>
+<summary><b>📜 Show older PRs</b></summary>
 
 | Repository | PR | Status |
 |---|---|---|
@@ -71,12 +71,9 @@
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#95](https://github.com/willskymaker/master_aid/pull/95) — test: add unit tests for pf_helper, encounter_generator, and loot_generator (#48) | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#59](https://github.com/Amayyas/SkyPulse/pull/59) — chore: remove unused geocoding dependency | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#41](https://github.com/Amayyas/SkyPulse/pull/41) — fix: resolve deprecation warnings | ✅ Merged |
-| [Adithya-Jayan/MyRepertoirApp](https://github.com/Adithya-Jayan/MyRepertoirApp) | [#114](https://github.com/Adithya-Jayan/MyRepertoirApp/pull/114) — Improve code fixes and add CI/tests | ✅ Merged |
-| [Hasib-39/goofy-street](https://github.com/Hasib-39/goofy-street) | [#9](https://github.com/Hasib-39/goofy-street/pull/9) — ui: update auth screens, product card, ratings & reviews, clickable r… | ✅ Merged |
 
 </details>
 <br>
-
 ## Package Library
 
 <table width="100%">
