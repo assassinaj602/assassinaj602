@@ -34,7 +34,6 @@
 <br>
 
 ## Open Source
-
 **This is the centerpiece, not a footnote.**
 
 <div align="center">
@@ -44,7 +43,6 @@
 ![Status](https://img.shields.io/badge/Status-Active%20Contributor-0175C2?style=for-the-badge)
 
 </div>
-
 
 ## 📦 Merged Pull Requests
 
