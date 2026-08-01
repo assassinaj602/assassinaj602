@@ -34,12 +34,13 @@
 <br>
 
 ## Open Source
+
 **This is the centerpiece, not a footnote.**
 
 <div align="center">
 
-![Merged PRs](https://img.shields.io/badge/Merged%20PRs-14-0175C2?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Repos-4-02569B?style=for-the-badge)
+![Merged PRs](https://img.shields.io/badge/Merged%20PRs-15-0175C2?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Repos-7-02569B?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active%20Contributor-0175C2?style=for-the-badge)
 
 </div>
@@ -51,19 +52,20 @@
 
 | Repository | PR | Status |
 |---|---|---|
+| [Yuanhong-Lan/AndroTest24](https://github.com/Yuanhong-Lan/AndroTest24) | [#2](https://github.com/Yuanhong-Lan/AndroTest24/pull/2) — feat: Add Flutter SATE extension | ✅ Merged |
 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | [#3492](https://github.com/lichess-org/mobile/pull/3492) — fix: use existing l10n strings for game history display mode options (#3479) | ✅ Merged |
 | [rrousselGit/riverpod](https://github.com/rrousselGit/riverpod) | [#4827](https://github.com/rrousselGit/riverpod/pull/4827) — docs: update runBuild documentation to match actual return type | ✅ Merged |
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#116](https://github.com/willskymaker/master_aid/pull/116) — feat: add Vichingo theme to name generator (#108) | ✅ Merged |
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#114](https://github.com/willskymaker/master_aid/pull/114) — Feature/content expansion | ✅ Merged |
-| [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#113](https://github.com/willskymaker/master_aid/pull/113) — feat: add CR filter to combat tracker monster search (#111) | ✅ Merged |
 
 </details>
 
 <details>
-<summary><b>📜 Show older PRs</b></summary>
+<summary><b>📜 Show older PRs (10 more)</b></summary>
 
 | Repository | PR | Status |
 |---|---|---|
+| [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#113](https://github.com/willskymaker/master_aid/pull/113) — feat: add CR filter to combat tracker monster search (#111) | ✅ Merged |
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#101](https://github.com/willskymaker/master_aid/pull/101) — feat: add homebrew monster creator with CR estimation (#76) | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#62](https://github.com/Amayyas/SkyPulse/pull/62) — feat: add metric/imperial unit toggle with persistence (#21) | ✅ Merged |
 | [lichess-org/mobile](https://github.com/lichess-org/mobile) | [#3448](https://github.com/lichess-org/mobile/pull/3448) — Add flip board button to puzzle screen (#3372) | ✅ Merged |
@@ -71,6 +73,8 @@
 | [willskymaker/master_aid](https://github.com/willskymaker/master_aid) | [#95](https://github.com/willskymaker/master_aid/pull/95) — test: add unit tests for pf_helper, encounter_generator, and loot_generator (#48) | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#59](https://github.com/Amayyas/SkyPulse/pull/59) — chore: remove unused geocoding dependency | ✅ Merged |
 | [Amayyas/SkyPulse](https://github.com/Amayyas/SkyPulse) | [#41](https://github.com/Amayyas/SkyPulse/pull/41) — fix: resolve deprecation warnings | ✅ Merged |
+| [Adithya-Jayan/MyRepertoirApp](https://github.com/Adithya-Jayan/MyRepertoirApp) | [#114](https://github.com/Adithya-Jayan/MyRepertoirApp/pull/114) — Improve code fixes and add CI/tests | ✅ Merged |
+| [Hasib-39/goofy-street](https://github.com/Hasib-39/goofy-street) | [#9](https://github.com/Hasib-39/goofy-street/pull/9) — ui: update auth screens, product card, ratings & reviews, clickable r… | ✅ Merged |
 
 </details>
 <br>
