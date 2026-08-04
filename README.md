@@ -21,7 +21,7 @@
 
 🎓 **Final-year** BS Computer Science @ UET Taxila
 
-📦 **Author** of 2 published Flutter packages on pub.dev
+📦 **Author** of 3 published Flutter packages on pub.dev
 
 🌱 Active Flutter **open-source contributor**
 
@@ -106,6 +106,28 @@ SmartFormGuard decouples your form logic from the UI, ensuring your forms are re
 ![pub points](https://img.shields.io/pub/points/flutter_form_guard?style=flat-square&color=0175C2)
 ![pub likes](https://img.shields.io/pub/likes/flutter_form_guard?style=flat-square&color=0175C2)
 ![pub version](https://img.shields.io/pub/v/flutter_form_guard?style=flat-square&color=02569B)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+**[sate_ai](https://github.com/assassinaj602/sate_ai)**
+Flutter · Dart · ONNX · TensorFlow Lite
+
+A fault injection framework for testing on-device AI models in Flutter. Simulates memory pressure, malformed inputs, thermal throttling, quantization drift, latency, model swap, and confidence threshold validation. Works with ONNX Runtime, TensorFlow Lite, and MockAdapter. Includes a web dashboard, CLI, GitHub Action, and 164 unit tests with 160/160 pub.dev score.
+
+🌐 [Website](https://assassinaj602.github.io/sate_ai) · 📄 [Research Paper](https://assassinaj602.github.io/sate_ai/paper.html)
+
+![pub points](https://img.shields.io/pub/points/sate_ai?style=flat-square&color=0175C2)
+![pub likes](https://img.shields.io/pub/likes/sate_ai?style=flat-square&color=0175C2)
+![pub version](https://img.shields.io/pub/v/sate_ai?style=flat-square&color=02569B)
+![GitHub stars](https://img.shields.io/github/stars/assassinaj602/sate_ai?style=flat-square&color=FFB900)
+
+</td>
+<td width="50%" valign="top">
+
 
 </td>
 </tr>
