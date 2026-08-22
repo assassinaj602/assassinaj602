@@ -281,7 +281,7 @@ A fault injection framework for testing on-device AI models in Flutter. Simulate
 <div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:0D1117&height=100&section=footer)
-Bye
+
 
 </div>
-bye
+
