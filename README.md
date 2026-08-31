@@ -198,6 +198,23 @@ A fault injection framework for testing on-device AI models in Flutter. Simulate
 <table width="100%">
   <tr>
     <td width="65%" valign="top">
+      <h3>Artificial Intelligence Using Python</h3>
+      <p><b>Issuer:</b> DigiSkills Training Program (Virtual University)</p>
+      <p><b>Description:</b> A comprehensive training program covering AI fundamentals, Python programming for AI applications, machine learning concepts, and practical implementation of AI models. Completed under the DigiSkills Training Program DSTP3.0-Batch-03 (Apr 2026 - Jul 2026).</p>
+      <p><b>Certificate ID:</b> 6PJBSMPMK</p>
+      <a href="https://digskills.pk/verify" target="_blank">
+        <img src="https://img.shields.io/badge/Verify%20Credential-DigiSkills-0175C2?style=flat-square" alt="Verify Certificate"/>
+      </a>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="Certificates/ai-python-certificate.png" width="100%" alt="DigiSkills Artificial Intelligence Using Python Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
       <h3>Flutter and Dart: Developing iOS, Android, and Mobile Apps</h3>
       <p><b>Issuer:</b> IBM (Coursera)</p>
       <p><b>Description:</b> An end-to-end professional course covering the full Flutter development lifecycle building responsive UI layouts, navigation and routing, state management, and platform-specific integrations for both iOS and Android. Concludes with app testing strategies and a real deployment workflow.</p>
