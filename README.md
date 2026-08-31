@@ -207,7 +207,7 @@ A fault injection framework for testing on-device AI models in Flutter. Simulate
       </a>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="Certificates/DSTP_Certificate_ 6PJBSMPMK.pdf" width="100%" alt="DigiSkills Artificial Intelligence Using Python Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
+      <img src="Certificates/DSTP_Certificate_6PJBSMPMK.png" width="100%" alt="DigiSkills Artificial Intelligence Using Python Certificate" style="border-radius: 8px; border: 1px solid #0175C2;"/>
     </td>
   </tr>
 </table>
