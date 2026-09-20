@@ -1,4 +1,4 @@
-Mm> [!NOTE]
+> [!NOTE]
 > "If you don't like your destiny, don't accept it. Instead, have the courage to change it the way you want it to be." **Naruto Uzumaki**
 > 
 > "People's dreams... have no end!" Marshall D. Teach **One Piece**
@@ -296,9 +296,5 @@ A fault injection framework for testing on-device AI models in Flutter. Simulate
 
 
 <div align="center">
-ffff
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=0:02569B,100:0D1117&height=100&section=footer)
-NOPE
 </div>
-Hiu
-Jjjjjhhh
