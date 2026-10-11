@@ -3,7 +3,8 @@
 > 
 > "People's dreams... have no end!" Marshall D. Teach **One Piece**
 <br>
-![GitHub Rank](https://vercel.app)
+[![assassinaj602's GitHub Stats](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+
 <br>
 <div align="center">
 
