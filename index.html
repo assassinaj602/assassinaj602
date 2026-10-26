@@ -1,0 +1,847 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Muhammad Assad Ullah | On-Device AI & Edge Intelligence Systems</title>
+  <meta name="description" content="Personal Research Webpage of Muhammad Assad Ullah. Edge AI Research Engineer at Duke Kunshan University's Edge Intelligence Lab and CS undergraduate at UET Taxila. Specializing in on-device LLMs, mobile systems engineering, and AI reliability.">
+  <meta name="keywords" content="Muhammad Assad Ullah, Edge AI, On-Device AI, llama.cpp, SATE AI, EdgePulse, Flutter, Android JNI, Duke Kunshan University, UET Taxila, Reliability Engineering">
+  <meta name="author" content="Muhammad Assad Ullah">
+
+  <!-- Open Graph / Social Meta -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://assassinaj602.github.io/assassinaj602/">
+  <meta property="og:title" content="Muhammad Assad Ullah | Personal Research Webpage">
+  <meta property="og:description" content="Edge AI Research Engineer at Duke Kunshan University. Researching on-device LLM inference, mobile systems engineering, and edge-AI reliability.">
+  <meta property="og:image" content="https://assassinaj602.github.io/assassinaj602/avatar.jpg">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@assassinaj602">
+  <meta name="twitter:creator" content="@assassinaj602">
+  <meta name="twitter:title" content="Muhammad Assad Ullah | Edge AI Research">
+  <meta name="twitter:description" content="Edge AI Research Engineer at Duke Kunshan University. Researching on-device LLMs, mobile systems engineering, and AI reliability.">
+  <meta name="twitter:image" content="https://assassinaj602.github.io/assassinaj602/avatar.jpg">
+
+  <!-- Favicon -->
+  <link rel="icon" href="./avatar.jpg" type="image/jpeg">
+
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+
+  <!-- Top Navigation -->
+  <header class="site-nav">
+    <div class="nav-container">
+      <a href="#" class="nav-brand">
+        <img src="./avatar.jpg" alt="Muhammad Assad Ullah" class="brand-avatar">
+        <span>Assad Ullah</span>
+      </a>
+
+      <ul class="nav-links" id="nav-links">
+        <li><a href="#about" class="nav-link">About</a></li>
+        <li><a href="#news" class="nav-link">News</a></li>
+        <li><a href="#publications" class="nav-link">Publications</a></li>
+        <li><a href="#systems" class="nav-link">Systems & Tools</a></li>
+        <li><a href="#experience" class="nav-link">Experience</a></li>
+        <li><a href="#education" class="nav-link">Education</a></li>
+        <li><a href="#awards" class="nav-link">Awards</a></li>
+        <li><a href="#contact" class="nav-link">Contact</a></li>
+      </ul>
+
+      <div class="nav-actions">
+        <a href="./Muhammad_Assad_Ullah_CV.pdf" class="btn btn-primary btn-sm" target="_blank" rel="noopener">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+          CV PDF
+        </a>
+        <button id="theme-toggle" class="theme-toggle-btn" aria-label="Toggle Dark/Light Mode">
+          <span id="theme-icon">🌙</span>
+        </button>
+        <button id="mobile-menu-btn" class="mobile-menu-btn" aria-label="Open Navigation Menu" aria-expanded="false">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="main-content">
+
+    <!-- Hero Card -->
+    <section class="hero-card" id="hero">
+      <div class="hero-avatar-wrapper">
+        <img src="./avatar.jpg" alt="Muhammad Assad Ullah" class="hero-avatar">
+        <div>
+          <span class="status-badge">
+            <span class="status-dot"></span>
+            Edge AI @ Duke Kunshan
+          </span>
+        </div>
+      </div>
+
+      <div class="hero-info">
+        <h1 class="hero-name">Muhammad Assad Ullah</h1>
+        <p class="hero-title">Edge AI Research Engineer &bull; Mobile Systems Specialist</p>
+        <p class="hero-affiliation">
+          Remote Research Engineer at <strong><a href="https://edge-intelligence-lab.github.io/" target="_blank" rel="noopener">Edge Intelligence Lab, Duke Kunshan University</a></strong> (Advisor: <a href="https://dukekunshan.edu.cn/en/faculty-profile/bing-luo/" target="_blank" rel="noopener">Prof. Bing Luo</a>)<br>
+          Final-Year Computer Science Undergraduate at <strong><a href="https://www.uettaxila.edu.pk/" target="_blank" rel="noopener">UET Taxila</a></strong>, Pakistan (Graduation: July 2027)
+        </p>
+
+        <div class="hero-tags">
+          <span class="hero-tag">On-Device AI</span>
+          <span class="hero-tag">Edge Intelligence</span>
+          <span class="hero-tag">llama.cpp & Vulkan</span>
+          <span class="hero-tag">PEFT / LoRA on Android</span>
+          <span class="hero-tag">Fault Injection</span>
+          <span class="hero-tag">Flutter & Native C/C++</span>
+        </div>
+
+        <div class="hero-links">
+          <a href="./Muhammad_Assad_Ullah_CV.pdf" class="btn btn-primary" target="_blank" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+            Download CV
+          </a>
+          <a href="mailto:asadullahaj602@gmail.com" class="btn btn-secondary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            Email
+          </a>
+          <a href="https://github.com/assassinaj602" class="btn btn-secondary" target="_blank" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
+            GitHub
+          </a>
+          <a href="https://orcid.org/0009-0007-2290-304X" class="btn btn-secondary" target="_blank" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 256 256" fill="#A6CE39"><path d="M128 0C57.31 0 0 57.31 0 128s57.31 128 128 128 128-57.31 128-128S198.69 0 128 0zm-45.74 198.2h-27.1V74.4h27.1v123.8zm-13.55-140.8c-8.68 0-15.71-7.04-15.71-15.72 0-8.68 7.03-15.72 15.71-15.72s15.72 7.04 15.72 15.72c0 8.68-7.04 15.72-15.72 15.72zm128.84 89.2c0 28.53-23.13 51.6-51.6 51.6h-37.4v-123.8h37.4c28.47 0 51.6 23.07 51.6 51.6v20.6zm-27.1-20.6c0-13.55-10.98-24.5-24.5-24.5h-10.3v49h10.3c13.52 0 24.5-10.95 24.5-24.5z"/></svg>
+            ORCID
+          </a>
+          <a href="https://www.linkedin.com/in/muhammad-assadullah" class="btn btn-secondary" target="_blank" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
+            LinkedIn
+          </a>
+          <a href="https://muhammad-assadullah.vercel.app/" class="btn btn-secondary" target="_blank" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg>
+            Portfolio
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Key Metrics Banner -->
+    <section class="metrics-grid">
+      <div class="metric-card">
+        <div class="metric-number">3</div>
+        <div class="metric-label">Research Papers & Preprints on Zenodo</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-number">6+</div>
+        <div class="metric-label">Published Packages on pub.dev (160/160 Score)</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-number">7.8k+ ⭐</div>
+        <div class="metric-label">Upstream Plugin in uiautomator2 & ECNU Kea2</div>
+      </div>
+      <div class="metric-card">
+        <div class="metric-number">7x</div>
+        <div class="metric-label">Hackathon Winner & 1st Place CyberHack 2025</div>
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="section" id="about">
+      <div class="section-header">
+        <h2 class="section-title">About & Research Vision</h2>
+      </div>
+
+      <div class="about-text">
+        <p>
+          I am a final-year Computer Science undergraduate at <strong>UET Taxila</strong>, Pakistan, currently working remotely as an <strong>Edge AI Research Engineer</strong> at <strong>Duke Kunshan University's Edge Intelligence Lab</strong> under <a href="https://dukekunshan.edu.cn/en/faculty-profile/bing-luo/" target="_blank" rel="noopener">Associate Professor Bing Luo</a>.
+        </p>
+        <p style="margin-top: 1rem;">
+          My research centers on <strong>on-device LLM inference</strong>, <strong>mobile systems engineering</strong>, and <strong>edge-AI reliability</strong>. Cloud AI systems enjoy infinite cooling, expansive memory budgets, and mature chaos engineering toolchains. In contrast, consumer mobile devices suffer brutal thermal throttling, aggressive OS process eviction, and unpredictable memory contention.
+        </p>
+        <p style="margin-top: 1rem;">
+          I write <strong>native C/C++ bindings</strong> (JNI, <code>dart:ffi</code>), configure hardware-accelerated Vulkan GPU kernels, manage tensor memory layouts by hand, and construct full fault-injection testbeds to diagnose what breaks when mobile hardware degrades. <strong>I do not just train models; I get them running reliably on consumer phones.</strong> My open-source research tooling has been adopted by the FSE group at East China Normal University.
+        </p>
+      </div>
+
+      <div class="focus-grid">
+        <div class="focus-card">
+          <span class="focus-icon">⚡</span>
+          <h3 class="focus-title">On-Device LLMs & VLMs</h3>
+          <p class="focus-desc">
+            Pioneered a complete, fully on-device Android PEFT/LoRA fine-tuning pipeline for Qwen3.5-2B VLM without cloud dependencies. Configured custom llama.cpp bridges with Vulkan GPU acceleration and manual tensor memory layouts for low-latency visual patch processing.
+          </p>
+        </div>
+
+        <div class="focus-card">
+          <span class="focus-icon">🛡️</span>
+          <h3 class="focus-title">Fault Injection & Reliability</h3>
+          <p class="focus-desc">
+            Created SATE AI, an open-source chaos engineering framework for edge AI models with 11 domain-specific fault injectors and 8 runtime adapters. Characterised distinct bimodal failure modes where malformed inputs trap quantized LLMs in pathological 20s token loops.
+          </p>
+        </div>
+
+        <div class="focus-card">
+          <span class="focus-icon">📊</span>
+          <h3 class="focus-title">Runtime Observability & Systems</h3>
+          <p class="focus-desc">
+            Engineered EdgePulse, capturing high-frequency native telemetry across PSS memory, OS thermal state, battery current draw, CPU utilization, and latency. Discovered the Android OS thermal-API blind spot where standard APIs miss active hardware throttling.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- News Section -->
+    <section class="section" id="news">
+      <div class="section-header">
+        <h2 class="section-title">News & Milestones</h2>
+      </div>
+
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="timeline-date">Aug 2026</div>
+          <div class="timeline-body">
+            Joined <strong>Duke Kunshan University</strong> (Edge Intelligence Lab) as an <strong>Edge AI Research Engineer (Remote)</strong> under the supervision of <strong>Prof. Bing Luo</strong>, focusing on on-device fine-tuning for Vision-Language Models.
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">Oct 2026</div>
+          <div class="timeline-body">
+            Released three research papers/preprints on <strong>Zenodo</strong> establishing the empirical foundation of joint fault injection and runtime observability on consumer mobile hardware (DOIs: <a href="https://doi.org/10.5281/zenodo.23262270" target="_blank" rel="noopener">23262270</a>, <a href="https://doi.org/10.5281/zenodo.23250418" target="_blank" rel="noopener">23250418</a>, <a href="https://doi.org/10.5281/zenodo.23248718" target="_blank" rel="noopener">23248718</a>). SATE AI paper draft prepared for submission to JOSS and arXiv.
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">Sep 2026</div>
+          <div class="timeline-body">
+            Published <strong>SATE AI v1.0.0</strong> on <a href="https://pub.dev/packages/sate_ai" target="_blank" rel="noopener">pub.dev</a>, achieving a <strong>160/160 maximum package score</strong> with 11 fault injectors and 8 model adapters across ONNX, TFLite, and llama.cpp.
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">Nov 2025</div>
+          <div class="timeline-body">
+            Built <strong>u2_flutter</strong>, officially accepted and listed as a supported plugin in <a href="https://github.com/openatx/uiautomator2" target="_blank" rel="noopener">openatx/uiautomator2</a> (7.8k+ ⭐, PR #1196), and adopted into the Kea2 framework by East China Normal University's FSE group (PRs #229–234).
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">2025</div>
+          <div class="timeline-body">
+            Won <strong>1st Place at Techinance CyberHack 2025</strong>, judged by industry and academic leaders from Amazon and the University of Alabama.
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">2024</div>
+          <div class="timeline-body">
+            Selected and graduated from the prestigious <strong>Aspire Leaders Program</strong>, founded by Harvard University faculty.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Publications Section -->
+    <section class="section" id="publications">
+      <div class="section-header">
+        <h2 class="section-title">Publications & Manuscripts</h2>
+      </div>
+
+      <div class="pub-list">
+
+        <!-- Paper 1 -->
+        <article class="pub-card">
+          <span class="pub-tag">Empirical Study / Edge AI</span>
+          <h3 class="pub-title">
+            <a href="https://doi.org/10.5281/zenodo.23262270" target="_blank" rel="noopener">
+              Characterising On-Device AI Failure Modes Under Joint Fault Injection and Runtime Observability
+            </a>
+          </h3>
+          <p class="pub-authors">
+            <span class="pub-author-self">Muhammad Assad Ullah</span>
+          </p>
+          <p class="pub-venue">
+            Zenodo (2026) &bull; DOI: 10.5281/zenodo.23262270
+          </p>
+
+          <div class="pub-finding">
+            <strong>Key Finding:</strong> High-frequency joint fault-injection and tracing across 280 real-device mobile runs revealed that Android's standard <code>PowerManager.currentThermalStatus</code> API reported nominal across 100% of thermal stress runs despite +486.8% latency degradation (thermal blind spot), while quantized LLMs displayed bimodal pathological generation loops under malformed input.
+          </div>
+
+          <div class="pub-actions">
+            <a href="https://doi.org/10.5281/zenodo.23262270" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">DOI 10.5281/zenodo.23262270</a>
+            <a href="https://zenodo.org/records/23262270" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Zenodo Record</a>
+            <button class="btn btn-secondary btn-sm" data-toggle-target="abs-1">Abstract</button>
+            <button class="btn btn-secondary btn-sm" data-toggle-target="bib-1">BibTeX</button>
+            <a href="https://github.com/assassinaj602/sate_ai" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Code</a>
+          </div>
+
+          <div class="pub-collapse-content" id="abs-1">
+            <strong>Abstract:</strong> Deploying artificial intelligence models directly on edge devices exposes machine learning runtimes to hardware volatile environments, including thermal limits, volatile system memory pressure, and corrupted input data. While previous work evaluates software-level fault injection and runtime observability in isolation, no empirical study has applied fault injection and high-frequency device tracing in a combined pipeline across heterogeneous model architectures. We present a joint empirical study combining SATE AI (software-level fault injection) and EdgePulse (non-intrusive runtime observability) on a physical Android handset (Tecno CH7n, MediaTek Helio G35, Android 12). Across a benchmark suite of 280 real-device inference traces covering three model runtimes (TensorFlow Lite, ONNX Runtime, and llama.cpp GGUF) and four execution scenarios, we establish that thermal stress causes extreme latency degradation (+486.8% for MobileNetV3 TFLite, +406.6% for ResNet-18 ONNX), standard OS thermal APIs report nominal throughout, and edge LLMs exhibit inverted fault-tolerance profiles compared to vision models.
+          </div>
+
+          <div class="pub-collapse-content" id="bib-1">
+            <div class="bibtex-box">
+              <button class="bibtex-copy-btn">Copy BibTeX</button>
+              <pre class="bibtex-pre">@article{assadullah2026characterising,
+  title     = {Characterising On-Device AI Failure Modes Under Joint Fault Injection and Runtime Observability},
+  author    = {Assad Ullah, Muhammad},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23262270},
+  url       = {https://doi.org/10.5281/zenodo.23262270}
+}</pre>
+            </div>
+          </div>
+        </article>
+
+        <!-- Paper 2 -->
+        <article class="pub-card">
+          <span class="pub-tag">Systems & Software Framework</span>
+          <h3 class="pub-title">
+            <a href="https://doi.org/10.5281/zenodo.23250418" target="_blank" rel="noopener">
+              SATE AI: A Fault Injection and Reliability Engineering Framework for On-Device AI Models
+            </a>
+          </h3>
+          <p class="pub-authors">
+            <span class="pub-author-self">Muhammad Assad Ullah</span>
+          </p>
+          <p class="pub-venue">
+            Zenodo (2026) &bull; DOI: 10.5281/zenodo.23250418 &bull; Draft prepared for JOSS & arXiv
+          </p>
+
+          <div class="pub-finding">
+            <strong>Key Finding:</strong> Engineered a chaos engineering system for mobile edge AI with 11 domain-specific fault injectors (memory pressure, thermal throttling simulation, quantization drift, tensor corruption) and 8 model adapters (TFLite, ONNX, llama.cpp, CoreML, MediaPipe), backed by a 246-case automated test matrix and pub.dev 160/160 rating.
+          </div>
+
+          <div class="pub-actions">
+            <a href="https://doi.org/10.5281/zenodo.23250418" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">DOI 10.5281/zenodo.23250418</a>
+            <a href="https://zenodo.org/records/23250418" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Zenodo Record</a>
+            <a href="https://pub.dev/packages/sate_ai" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">pub.dev (160/160)</a>
+            <button class="btn btn-secondary btn-sm" data-toggle-target="abs-2">Abstract</button>
+            <button class="btn btn-secondary btn-sm" data-toggle-target="bib-2">BibTeX</button>
+            <a href="https://github.com/assassinaj602/sate_ai" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+          </div>
+
+          <div class="pub-collapse-content" id="abs-2">
+            <strong>Abstract:</strong> On-device artificial intelligence deployment in mobile applications confronts machine learning models with volatile hardware environments: unpredictable memory pressure, dynamic thermal constraints, and corrupted sensor inputs. Cloud-hosted systems enjoy active cooling, stable resource budgets, and established chaos engineering toolchains; mobile edge AI has none of these guarantees. We present SATE AI, an open-source fault injection and reliability engineering framework designed for on-device machine learning models in mobile and desktop cross-platform applications built with Dart and Flutter. SATE AI provides a unified architecture comprising 11 domain-specific fault injectors covering process memory pressure, thermal throttling simulation, malformed tensor inputs, quantization drift, data corruption, network latency drops, model swaps, version mismatches, GPU memory pressure, and confidence threshold degradation paired with 8 model runtime adapters. Validated through a 246-case automated test suite.
+          </div>
+
+          <div class="pub-collapse-content" id="bib-2">
+            <div class="bibtex-box">
+              <button class="bibtex-copy-btn">Copy BibTeX</button>
+              <pre class="bibtex-pre">@software{assadullah2026sateai,
+  title     = {SATE AI: A Fault Injection and Reliability Engineering Framework for On-Device AI Models in Mobile Applications},
+  author    = {Assad Ullah, Muhammad},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23250418},
+  url       = {https://doi.org/10.5281/zenodo.23250418}
+}</pre>
+            </div>
+          </div>
+        </article>
+
+        <!-- Paper 3 -->
+        <article class="pub-card">
+          <span class="pub-tag">Observability & Runtime Telemetry</span>
+          <h3 class="pub-title">
+            <a href="https://doi.org/10.5281/zenodo.23248718" target="_blank" rel="noopener">
+              EdgePulse: A Runtime Observability Framework for Quantized Large Language Models on Consumer Edge Devices
+            </a>
+          </h3>
+          <p class="pub-authors">
+            <span class="pub-author-self">Muhammad Assad Ullah</span>
+          </p>
+          <p class="pub-venue">
+            Zenodo (2026) &bull; DOI: 10.5281/zenodo.23248718
+          </p>
+
+          <div class="pub-finding">
+            <strong>Key Finding:</strong> EdgePulse synchronizes native platform channels on Android (Kotlin) and iOS (Swift) to capture resident set size (PSS), OS thermal states, battery draw (CURRENT_NOW), and CPU usage per inference trace. Demonstrated that sustained 15-minute TinyLlama 1.1B decoding on ARM chips experiences +16.5% latency throttling undetected by system thermal APIs.
+          </div>
+
+          <div class="pub-actions">
+            <a href="https://doi.org/10.5281/zenodo.23248718" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">DOI 10.5281/zenodo.23248718</a>
+            <a href="https://zenodo.org/records/23248718" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Zenodo Record</a>
+            <a href="https://pub.dev/packages/edgepulse" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">pub.dev</a>
+            <button class="btn btn-secondary btn-sm" data-toggle-target="abs-3">Abstract</button>
+            <button class="btn btn-secondary btn-sm" data-toggle-target="bib-3">BibTeX</button>
+            <a href="https://github.com/assassinaj602/edgepulse" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+          </div>
+
+          <div class="pub-collapse-content" id="abs-3">
+            <strong>Abstract:</strong> On-device AI execution lacks unified runtime observability across mobile platforms. Existing tools focus on isolated model profiling or single-engine metrics and give no synchronized view of memory, thermal state, battery draw, and inference latency during real workloads. We present EdgePulse, an open-source runtime observability framework capturing structured InferenceTrace telemetry on Android and iOS via native platform channels: resident memory via Debug.getPss(), OS thermal state via PowerManager.currentThermalStatus, battery current draw via BatteryManager.CURRENT_NOW, CPU utilization from /proc/stat, and per-inference latency. Analyzing 90 baseline traces and 60 sustained-load traces demonstrates that standard OS thermal APIs can miss active hardware throttling on budget ARM SoCs, making application-level timing essential for edge AI deployments.
+          </div>
+
+          <div class="pub-collapse-content" id="bib-3">
+            <div class="bibtex-box">
+              <button class="bibtex-copy-btn">Copy BibTeX</button>
+              <pre class="bibtex-pre">@article{assadullah2026edgepulse,
+  title     = {EdgePulse: A Runtime Observability Framework for Quantized Large Language Models on Consumer Edge Devices},
+  author    = {Assad Ullah, Muhammad},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.23248718},
+  url       = {https://doi.org/10.5281/zenodo.23248718}
+}</pre>
+            </div>
+          </div>
+        </article>
+
+      </div>
+    </section>
+
+    <!-- Systems & Tools Section -->
+    <section class="section" id="systems">
+      <div class="section-header">
+        <h2 class="section-title">Systems & Open-Source Research Software</h2>
+      </div>
+
+      <div class="systems-grid">
+
+        <!-- System 1: SATE AI -->
+        <div class="system-card">
+          <div class="system-top">
+            <div class="system-badges">
+              <span class="system-badge highlight">Fault Injection</span>
+              <span class="system-badge">pub.dev 160/160</span>
+              <span class="system-badge">MIT License</span>
+            </div>
+            <h3 class="system-title">SATE AI</h3>
+            <p class="system-desc">
+              Comprehensive fault-injection and reliability engineering framework designed for on-device machine learning in cross-platform mobile apps.
+            </p>
+            <ul class="system-bullets">
+              <li>11 fault injectors: memory stress, thermal simulation, tensor corruption, quantization drift</li>
+              <li>8 runtime adapters: ONNX Runtime, TensorFlow Lite, llama.cpp, Apple CoreML, MediaPipe</li>
+              <li>246-case automated test matrix with 9 production releases</li>
+            </ul>
+          </div>
+          <div class="system-footer">
+            <a href="https://pub.dev/packages/sate_ai" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">pub.dev</a>
+            <a href="https://github.com/assassinaj602/sate_ai" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://doi.org/10.5281/zenodo.23250418" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Paper</a>
+          </div>
+        </div>
+
+        <!-- System 2: EdgePulse -->
+        <div class="system-card">
+          <div class="system-top">
+            <div class="system-badges">
+              <span class="system-badge highlight">Runtime Observability</span>
+              <span class="system-badge">Edge LLM Telemetry</span>
+              <span class="system-badge">Android & iOS</span>
+            </div>
+            <h3 class="system-title">EdgePulse SDK & CLI</h3>
+            <p class="system-desc">
+              High-frequency, low-overhead native runtime observability framework for quantized language models running on edge devices.
+            </p>
+            <ul class="system-bullets">
+              <li>Captures synchronized PSS memory, battery current draw, CPU utilization, and latency</li>
+              <li>Exposed Android thermal API blind spot under sustained LLM token generation</li>
+              <li>Published ecosystem: <code>edgepulse</code>, <code>edgepulse_core</code>, and <code>edgepulse_cli</code></li>
+            </ul>
+          </div>
+          <div class="system-footer">
+            <a href="https://pub.dev/packages/edgepulse" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">pub.dev</a>
+            <a href="https://github.com/assassinaj602/edgepulse" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://doi.org/10.5281/zenodo.23248718" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">Paper</a>
+          </div>
+        </div>
+
+        <!-- System 3: Offline Multimodal Vision Assistant -->
+        <div class="system-card">
+          <div class="system-top">
+            <div class="system-badges">
+              <span class="system-badge highlight">On-Device VLM</span>
+              <span class="system-badge">Qwen3-VL-2B</span>
+              <span class="system-badge">Vulkan GPU</span>
+            </div>
+            <h3 class="system-title">Offline Multimodal Assistant</h3>
+            <p class="system-desc">
+              100% offline, fully local Android application executing multimodal vision-language inference with manual tensor memory layout tuning.
+            </p>
+            <ul class="system-bullets">
+              <li>Engineered custom llama.cpp bridges with Vulkan GPU kernel acceleration</li>
+              <li>Integrated native JNI and <code>dart:ffi</code> bindings for zero-copy image tensor ingestion</li>
+              <li>Tuned memory layout to accommodate dense visual patch embeddings within mobile RAM constraints</li>
+            </ul>
+          </div>
+          <div class="system-footer">
+            <a href="https://github.com/assassinaj602" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+            <span class="system-badge">Mobile Systems</span>
+          </div>
+        </div>
+
+        <!-- System 4: u2_flutter -->
+        <div class="system-card">
+          <div class="system-top">
+            <div class="system-badges">
+              <span class="system-badge highlight">7.8k+ ⭐ Ecosystem</span>
+              <span class="system-badge">ECNU Kea2 Adopted</span>
+              <span class="system-badge">PyPI</span>
+            </div>
+            <h3 class="system-title">u2_flutter UI Driver</h3>
+            <p class="system-desc">
+              Flutter driver plugin for <code>uiautomator2</code>, enabling automated UI testing and element inspection for Flutter mobile applications.
+            </p>
+            <ul class="system-bullets">
+              <li>Officially merged and listed as a supported plugin in <code>openatx/uiautomator2</code> (PR #1196)</li>
+              <li>Adopted by the FSE group at East China Normal University (Kea2 framework PRs #229–234)</li>
+              <li>Flagged as a foundational tool for a forthcoming FSE publication</li>
+            </ul>
+          </div>
+          <div class="system-footer">
+            <a href="https://pypi.org/project/u2-flutter/" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">PyPI</a>
+            <a href="https://github.com/assassinaj602/u2_flutter" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+            <a href="https://github.com/openatx/uiautomator2/pull/1196" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">PR #1196</a>
+          </div>
+        </div>
+
+        <!-- System 5: AURAF Thesis Runtime -->
+        <div class="system-card">
+          <div class="system-top">
+            <div class="system-badges">
+              <span class="system-badge highlight">BS Thesis</span>
+              <span class="system-badge">Unified Runtime</span>
+              <span class="system-badge">Hardware-Aware</span>
+            </div>
+            <h3 class="system-title">AURAF Runtime Architecture</h3>
+            <p class="system-desc">
+              Adaptive Unified Runtime Architecture for Flutter — unifying token budgeting, dynamic cloud/edge fallback, and hardware-aware AI execution.
+            </p>
+            <ul class="system-bullets">
+              <li>Monitors real-time mobile memory pressure and thermal states before model invocation</li>
+              <li>Dynamically routes inference requests between local GGUF/NPU kernels and cloud fallback endpoints</li>
+              <li>Automates token budgeting to prevent out-of-memory system terminations</li>
+            </ul>
+          </div>
+          <div class="system-footer">
+            <span class="system-badge">UET Taxila</span>
+            <span class="system-badge">Research Thesis</span>
+          </div>
+        </div>
+
+        <!-- System 6: AndroTest24 Extension -->
+        <div class="system-card">
+          <div class="system-top">
+            <div class="system-badges">
+              <span class="system-badge highlight">ASE 2024 Artifact</span>
+              <span class="system-badge">GUI Testing Benchmark</span>
+            </div>
+            <h3 class="system-title">AndroTest24 Benchmark Extension</h3>
+            <p class="system-desc">
+              Extended the ASE 2024 artifact repository to evaluate automated GUI test generation tools on Flutter applications.
+            </p>
+            <ul class="system-bullets">
+              <li>Contributed benchmark adaptations for hybrid Flutter Android view hierarchies</li>
+              <li>Upstream PR #2 merged into the official artifact repository; PR #4 under review</li>
+            </ul>
+          </div>
+          <div class="system-footer">
+            <a href="https://github.com/assassinaj602" class="btn btn-secondary btn-sm" target="_blank" rel="noopener">GitHub</a>
+            <span class="system-badge">Benchmarking</span>
+          </div>
+        </div>
+
+      </div>
+
+      <!-- Published packages row -->
+      <div style="margin-top: 1.5rem; background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px; padding: 1.25rem;">
+        <h4 style="font-size: 0.95rem; font-weight: 700; margin-bottom: 0.65rem; color: var(--text-primary);">
+          📦 Published Packages on <a href="https://pub.dev/publishers/assassinaj602" target="_blank" rel="noopener" style="color: var(--accent-primary);">pub.dev</a>:
+        </h4>
+        <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+          <a href="https://pub.dev/packages/sate_ai" target="_blank" rel="noopener" class="hero-tag" style="text-decoration:none;">sate_ai (160/160)</a>
+          <a href="https://pub.dev/packages/edgepulse" target="_blank" rel="noopener" class="hero-tag" style="text-decoration:none;">edgepulse</a>
+          <a href="https://pub.dev/packages/edgepulse_core" target="_blank" rel="noopener" class="hero-tag" style="text-decoration:none;">edgepulse_core</a>
+          <a href="https://pub.dev/packages/edgepulse_cli" target="_blank" rel="noopener" class="hero-tag" style="text-decoration:none;">edgepulse_cli</a>
+          <a href="https://pub.dev/packages/offline_sync_flutter" target="_blank" rel="noopener" class="hero-tag" style="text-decoration:none;">offline_sync_flutter</a>
+          <a href="https://pub.dev/packages/flutter_form_guard" target="_blank" rel="noopener" class="hero-tag" style="text-decoration:none;">flutter_form_guard</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Experience Section -->
+    <section class="section" id="experience">
+      <div class="section-header">
+        <h2 class="section-title">Research & Professional Experience</h2>
+      </div>
+
+      <div class="card-stack">
+
+        <div class="exp-card">
+          <div class="exp-header">
+            <div>
+              <h3 class="exp-role">Edge AI Research Engineer (Remote)</h3>
+              <p class="exp-company">Duke Kunshan University, Edge Intelligence Lab &bull; Kunshan, China</p>
+            </div>
+            <span class="exp-date">Aug 2026 &ndash; Present</span>
+          </div>
+          <p class="exp-supervisor">Supervisor: Prof. Bing Luo, Associate Professor</p>
+          <ul class="exp-bullets">
+            <li>Constructed a fully on-device Android fine-tuning pipeline for Qwen3.5-2B VLM using PEFT/LoRA; the entire forward, backward, and weight update loop executes locally on consumer Android hardware without cloud dependencies.</li>
+            <li>Engineered JNI and <code>dart:ffi</code> native bindings into <code>llama.cpp</code> and <code>libmtmd</code>, providing Flutter applications direct access to on-device multimodal inference with manual tensor memory layout management.</li>
+            <li>Configured Vulkan GPU acceleration bridges and integrated the SATE AI fault-injection framework into lab evaluation pipelines to evaluate model resilience under thermal throttling and RAM saturation.</li>
+          </ul>
+        </div>
+
+        <div class="exp-card">
+          <div class="exp-header">
+            <div>
+              <h3 class="exp-role">Trainee Artificial Intelligence Engineer</h3>
+              <p class="exp-company">DevCrew I/O &bull; Lahore, Pakistan</p>
+            </div>
+            <span class="exp-date">Jul 2026 &ndash; Aug 2026</span>
+          </div>
+          <ul class="exp-bullets">
+            <li>Engineered production Retrieval-Augmented Generation (RAG) pipelines connecting LLMs with vector databases and REST APIs.</li>
+            <li>Trained and evaluated machine learning models; handled large-scale dataset preprocessing, embedding generation, and benchmarking.</li>
+          </ul>
+        </div>
+
+        <div class="exp-card">
+          <div class="exp-header">
+            <div>
+              <h3 class="exp-role">Trainee Software Development Engineer</h3>
+              <p class="exp-company">DevCrew I/O &bull; Lahore, Pakistan</p>
+            </div>
+            <span class="exp-date">Jun 2025 &ndash; Aug 2025</span>
+          </div>
+          <ul class="exp-bullets">
+            <li>Executed complete mobile development lifecycles in Flutter; built and shipped production features across enterprise client apps.</li>
+            <li>Integrated RESTful APIs, authored automated unit tests, and collaborated within an Agile cross-functional engineering team.</li>
+          </ul>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Education Section -->
+    <section class="section" id="education">
+      <div class="section-header">
+        <h2 class="section-title">Education</h2>
+      </div>
+
+      <div class="card-stack">
+
+        <div class="exp-card">
+          <div class="exp-header">
+            <div>
+              <h3 class="exp-role">Bachelor of Science in Computer Science</h3>
+              <p class="exp-company">University of Engineering and Technology (UET) Taxila &bull; Pakistan</p>
+            </div>
+            <span class="exp-date">Aug 2023 &ndash; Jul 2027 (Expected)</span>
+          </div>
+          <p class="exp-supervisor">CGPA: <strong>3.31 / 4.00</strong> &bull; EQF Level 6</p>
+          <ul class="exp-bullets">
+            <li><strong>Undergraduate Thesis:</strong> AURAF (Adaptive Unified Runtime Architecture for Flutter) &mdash; unifying token budgeting, cloud/edge fallback, and hardware-aware on-device AI.</li>
+            <li><strong>Relevant Coursework:</strong> Artificial Intelligence, Data Structures & Algorithms, Operating Systems, Database Systems, Computer Networks, Natural Language Processing, Compilers, Software Engineering.</li>
+          </ul>
+        </div>
+
+        <div class="exp-card">
+          <div class="exp-header">
+            <div>
+              <h3 class="exp-role">Intermediate in Computer Science (ICS)</h3>
+              <p class="exp-company">Punjab Group of Colleges &bull; D.G. Khan, Pakistan</p>
+            </div>
+            <span class="exp-date">Aug 2021 &ndash; May 2023</span>
+          </div>
+          <p class="exp-supervisor">Score: <strong>1001 / 1100</strong> &bull; <strong>3rd Position, D.G. Khan Board (2023)</strong></p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Technical Arsenal / Skills -->
+    <section class="section" id="skills">
+      <div class="section-header">
+        <h2 class="section-title">Technical Arsenal</h2>
+      </div>
+
+      <div class="skills-container">
+        <div class="skill-category">
+          <h3 class="skill-cat-title">🧠 On-Device AI</h3>
+          <div class="skill-pills">
+            <span class="skill-pill">llama.cpp</span>
+            <span class="skill-pill">GGUF Runtimes</span>
+            <span class="skill-pill">Qwen3.5-2B VLM</span>
+            <span class="skill-pill">PEFT / LoRA</span>
+            <span class="skill-pill">ONNX Runtime</span>
+            <span class="skill-pill">TensorFlow Lite</span>
+            <span class="skill-pill">PyTorch</span>
+            <span class="skill-pill">HuggingFace</span>
+            <span class="skill-pill">MediaPipe</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3 class="skill-cat-title">⚙️ Mobile Systems</h3>
+          <div class="skill-pills">
+            <span class="skill-pill">Android JNI</span>
+            <span class="skill-pill">dart:ffi</span>
+            <span class="skill-pill">Vulkan GPU</span>
+            <span class="skill-pill">Manual Tensor Layout</span>
+            <span class="skill-pill">Flutter / Dart</span>
+            <span class="skill-pill">Riverpod</span>
+            <span class="skill-pill">Hive</span>
+            <span class="skill-pill">Melos</span>
+            <span class="skill-pill">Firebase</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3 class="skill-cat-title">🛡️ Reliability & Testing</h3>
+          <div class="skill-pills">
+            <span class="skill-pill">Fault Injection</span>
+            <span class="skill-pill">Stress Benchmarking</span>
+            <span class="skill-pill">Thermal Telemetry</span>
+            <span class="skill-pill">Property-Based Testing</span>
+            <span class="skill-pill">uiautomator2</span>
+            <span class="skill-pill">AndroTest24</span>
+            <span class="skill-pill">CI/CD</span>
+            <span class="skill-pill">Git / GitHub</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h3 class="skill-cat-title">💻 Languages & Data</h3>
+          <div class="skill-pills">
+            <span class="skill-pill">Dart</span>
+            <span class="skill-pill">Python</span>
+            <span class="skill-pill">C / C++</span>
+            <span class="skill-pill">JavaScript</span>
+            <span class="skill-pill">SQL</span>
+            <span class="skill-pill">PySpark</span>
+            <span class="skill-pill">SQLite</span>
+            <span class="skill-pill">Power BI</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Awards & Honors Section -->
+    <section class="section" id="awards">
+      <div class="section-header">
+        <h2 class="section-title">Honours & Awards</h2>
+      </div>
+
+      <div class="awards-list">
+        <div class="award-item">
+          <span class="award-icon">🏆</span>
+          <div>
+            <h3 class="award-title">1st Place, Techinance CyberHack 2025</h3>
+            <p class="award-desc">Judged by expert representatives from Amazon and the University of Alabama.</p>
+          </div>
+        </div>
+
+        <div class="award-item">
+          <span class="award-icon">🥇</span>
+          <div>
+            <h3 class="award-title">7x Hackathon Winner (2023 &ndash; 2026)</h3>
+            <p class="award-desc">Victories across competitive hackathons in AI, Flutter mobile systems, cybersecurity, and sustainability.</p>
+          </div>
+        </div>
+
+        <div class="award-item">
+          <span class="award-icon">⭐</span>
+          <div>
+            <h3 class="award-title">Official Plugin Contributor &ndash; uiautomator2</h3>
+            <p class="award-desc">Plugin <code>u2_flutter</code> officially integrated into <code>openatx/uiautomator2</code> (7,800+ GitHub stars) and adopted by ECNU Kea2.</p>
+          </div>
+        </div>
+
+        <div class="award-item">
+          <span class="award-icon">🎓</span>
+          <div>
+            <h3 class="award-title">Aspire Leaders Program Graduate (2024)</h3>
+            <p class="award-desc">Completed the leadership development program founded by Harvard University faculty.</p>
+          </div>
+        </div>
+
+        <div class="award-item">
+          <span class="award-icon">🏅</span>
+          <div>
+            <h3 class="award-title">3rd Position, D.G. Khan Intermediate Board (2023)</h3>
+            <p class="award-desc">Ranked 3rd across the entire division in Intermediate Computer Science with 1001/1100 marks.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Academic References -->
+    <section class="section" id="references">
+      <div class="section-header">
+        <h2 class="section-title">Academic References</h2>
+      </div>
+
+      <div class="ref-grid">
+        <div class="ref-card">
+          <h3 class="ref-name">Prof. Bing Luo</h3>
+          <p class="ref-role">Current Research Supervisor</p>
+          <p class="ref-inst">Associate Professor, Edge Intelligence Lab<br>Duke Kunshan University, Kunshan, China</p>
+          <a href="mailto:bing.luo@dukekunshan.edu.cn" class="ref-email">bing.luo@dukekunshan.edu.cn</a>
+        </div>
+
+        <div class="ref-card">
+          <h3 class="ref-name">Dr. Aun Irtaza</h3>
+          <p class="ref-role">Academic Supervisor</p>
+          <p class="ref-inst">Chairman / HOD, Department of Computer Science<br>University of Engineering and Technology (UET) Taxila, Pakistan</p>
+          <a href="mailto:aun.irtaza@uettaxila.edu.pk" class="ref-email">aun.irtaza@uettaxila.edu.pk</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="section" id="contact">
+      <div class="section-header">
+        <h2 class="section-title">Connect & Collaborate</h2>
+      </div>
+
+      <div style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 14px; padding: 2rem; text-align: center;">
+        <h3 style="font-size: 1.3rem; margin-bottom: 0.5rem; color: var(--text-primary);">Interested in On-Device AI & Systems Research?</h3>
+        <p style="color: var(--text-secondary); max-width: 600px; margin: 0 auto 1.5rem auto;">
+          I am always excited to discuss on-device LLM inference, mobile edge reliability, and collaborative research initiatives.
+        </p>
+        <div style="display: flex; justify-content: center; gap: 0.75rem; flex-wrap: wrap;">
+          <a href="mailto:asadullahaj602@gmail.com" class="btn btn-primary">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            asadullahaj602@gmail.com
+          </a>
+          <a href="./Muhammad_Assad_Ullah_CV.pdf" class="btn btn-secondary" target="_blank" rel="noopener">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="7 10 12 15 17 10"/><line x1="12" y1="15" x2="12" y2="3"/></svg>
+            Download Full CV (PDF)
+          </a>
+          <a href="https://github.com/assassinaj602" class="btn btn-secondary" target="_blank" rel="noopener">
+            GitHub @assassinaj602
+          </a>
+          <a href="https://www.linkedin.com/in/muhammad-assadullah" class="btn btn-secondary" target="_blank" rel="noopener">
+            LinkedIn
+          </a>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Site Footer -->
+  <footer class="site-footer">
+    <div class="footer-container">
+      <div class="footer-links">
+        <a href="#about" class="footer-link">About</a>
+        <a href="#publications" class="footer-link">Publications</a>
+        <a href="#systems" class="footer-link">Systems</a>
+        <a href="#experience" class="footer-link">Experience</a>
+        <a href="https://orcid.org/0009-0007-2290-304X" class="footer-link" target="_blank" rel="noopener">ORCID</a>
+        <a href="https://github.com/assassinaj602" class="footer-link" target="_blank" rel="noopener">GitHub</a>
+        <a href="./Muhammad_Assad_Ullah_CV.pdf" class="footer-link" target="_blank" rel="noopener">CV (PDF)</a>
+      </div>
+      <p>&copy; 2026 Muhammad Assad Ullah &bull; Hosted on GitHub Pages (<a href="https://assassinaj602.github.io/assassinaj602/" style="color: inherit; text-decoration: underline;">assassinaj602.github.io/assassinaj602</a>)</p>
+    </div>
+  </footer>
+
+  <script src="./script.js"></script>
+</body>
+</html>

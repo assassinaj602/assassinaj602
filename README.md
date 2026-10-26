@@ -17,19 +17,19 @@
 
 ## About Me
 
-💙 **Flutter Developer** from Pakistan, specializing in offline-first & on-device AI mobile apps
+🔬 **Edge AI Research Engineer** (Remote) @ Duke Kunshan University (Edge Intelligence Lab)
 
-🎓 **Final-year** BS Computer Science @ UET Taxila
+🌐 **Personal Research Webpage:** [assassinaj602.github.io/assassinaj602](https://assassinaj602.github.io/assassinaj602/)
 
-📦 **Author** of 3 published Flutter packages on pub.dev
+💙 **Mobile Systems & On-Device AI Engineer** specializing in quantized LLM inference & fault injection
 
-🌱 Active Flutter **open-source contributor**
+🎓 **Final-year** BS Computer Science @ UET Taxila (Thesis: AURAF)
 
-🏆 7x **Hackathon Winner**
+📦 **Author** of 6 published packages on pub.dev (sate_ai, edgepulse, etc.)
 
-🚀 **Open to** Flutter internships, remote roles, and freelance work
+🌱 Active open-source contributor (merged into uiautomator2 7.8k+ ⭐, Kea2 @ ECNU)
 
-⭐ **Goal:** become one of the top Flutter open-source contributors
+🏆 7x **Hackathon Winner** & 1st Place CyberHack 2025
 
 <br>
 
@@ -293,9 +293,10 @@ A fault injection framework for testing on-device AI models in Flutter. Simulate
 ## Connect
 
 <p align="center">
+  <a href="https://assassinaj602.github.io/assassinaj602/"><img src="https://img.shields.io/badge/Research_Webpage-0284C7?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0007-2290-304X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
   <a href="https://muhammad-assadullah.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0175C2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-assadullah"><img src="https://img.shields.io/badge/LinkedIn-0175C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/assassinaj602"><img src="https://img.shields.io/badge/X-0175C2?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:asadullahaj602@gmail.com"><img src="https://img.shields.io/badge/Email-0175C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
